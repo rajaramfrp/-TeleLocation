@@ -6,7 +6,7 @@
 <div align="center">
 
 [![https://t.me/mrwhitehat_official](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://t.me/mrwhitehat_official)
-[![https://t.me/mrwhitehat_official](https://img.shields.io/badge/Telegram-@th30neand0nly-blue.svg?style=flat-square)](https://t.me/mrwhitehat_official)
+[![https://t.me/mrwhitehat_official](https://img.shields.io/badge/Telegram-@mrwhitehat_official-blue.svg?style=flat-square)](https://t.me/mrwhitehat_official)
 
 </div>
 
@@ -31,3 +31,6 @@ This tool is based upon [Psi](https://github.com/Th30neAnd0nly/Psi) .This is a t
 1. Run `npm install`
 1. Afterwards `npm start`
 1. Your Bot is now online.
+
+
+Credit:- This is not my program. I am just sharing this program the original owner of this program is @Th30neAnd0nly 
