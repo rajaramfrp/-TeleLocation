@@ -33,4 +33,6 @@ This tool is based upon [Psi](https://github.com/Th30neAnd0nly/Psi) .This is a t
 1. Your Bot is now online.
 
 
-Credit:- This is not my program. I am just sharing this program the original owner of this program is @Th30neAnd0nly 
+Credit:- This is not my program. I am just sharing this program the original owner of this program is [@Th30neAnd0nly](https://github.com/Th30neAnd0nly/)
+
+Thank you ❤️🥰 don't forget to join our community 
