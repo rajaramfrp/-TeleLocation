@@ -5,8 +5,8 @@
 
 <div align="center">
 
-[![https://telegram.me/th30neand0nly0ne](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://telegram.me/th30neand0nly0ne)
-[![https://telegram.me/th30neand0nly](https://img.shields.io/badge/Telegram-@th30neand0nly-blue.svg?style=flat-square)](https://telegram.me/th30neand0nly)
+[![https://t.me/mrwhitehat_official](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://telegram.me/th30neand0nly0ne)
+[![https://t.me/mrwhitehat_official](https://img.shields.io/badge/Telegram-@th30neand0nly-blue.svg?style=flat-square)](https://telegram.me/th30neand0nly)
 
 </div>
 
