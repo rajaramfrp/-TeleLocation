@@ -1,7 +1,7 @@
 
 <p align='center'><img style="height:100px;width:100px" src="icon1.png" ></p>
 
-<h2 align='center'>Track exact location people by just using a link.</h2>
+<h2 align='center'>Track exact location by just using a link.</h2>
 
 <div align="center">
 
