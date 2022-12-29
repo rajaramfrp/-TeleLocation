@@ -18,7 +18,7 @@ This tool is based upon [Psi](https://github.com/Th30neAnd0nly/Psi) .This is a t
  
 #### Video Tutorial 
 
-[![Video Tutorial](https://github.com/Th30neAnd0nly/TrackDown/blob/main/vid.png)](https://github.com/Th30neAnd0nly/TrackDown/blob/main/vid.mp4?raw=true)
+[![Video Tutorial](https://github.com/Th30neAnd0nly/TrackDown/blob/main/vid.png)](https://video.hardlimit.com/w/b2PieppVWBu3WqHcJqRvWg)
  
 
 ### How to build
