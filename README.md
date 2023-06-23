@@ -6,7 +6,7 @@
 <div align="center">
 
 [![https://bit.ly/3RzjdHX](https://img.shields.io/badge/YouTube-Channel-orange.svg?style=flat-square)](https://bit.ly/3RzjdHX)
-[![https://t.me/mrwhitehat_official](https://img.shields.io/badge/Telegram-@mrwhitehat_official-blue.svg?style=flat-square)](https://t.me/mrwhitehat_official)
+[![https://t.me/mrwhitehat_official](https://img.shields.io/badge/Telegram-@mrwhitehat_official-blue.svg?style=flat-square)](https://t.me/technicalwhitehat)
 
 </div>
 
